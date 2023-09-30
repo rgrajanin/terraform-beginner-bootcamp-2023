@@ -14,3 +14,5 @@
 ## this is for 0.3.0
 ## this is for 0.4.0
 ## this is for 0.5.0
+## this is for 0.6.0
+## this is for 0.7.0
